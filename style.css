@@ -358,10 +358,6 @@ form .btn2{
     margin-top: 20px;
 }
 
-.copyright i {
-    color: #ff004f;
-}
-
 /* ---------css for small screens-------- */
 nav .fas {
     display: none;
@@ -431,4 +427,5 @@ nav .fas {
     color: #61b752;
     margin-top: -40px;
     display: block;
+
 }
